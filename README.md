@@ -31,8 +31,6 @@ Looking for iOS version repo? [stevenselcuk/Pomosh-iOS-watchOS](https://github.c
 
 Is it the first time remote working? Or are you tired of distraction at home in these COVID-19 days? Pomosh can help you fight against procrastination and distraction.
 
-Is it the first time remote working? Or are you tired of distraction at home in these COVID-19 days? Pomosh can help you fight against procrastination and distraction.
-
 ### How to:
 
 A working block and a break count as a cycle. A Cycle with a 25-minute working & 5-minute break is a good starting point for newbies. How many cycles do you need in a day? It depends on your workload. It's time hustle. Create a new session and follow working/break cycles while working. Pomosh will help you focus.
